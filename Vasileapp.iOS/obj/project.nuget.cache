@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8OB+FDkQMe3FRjQpIzO0BJSg2CR0g2HEH5XKbWZ0z3QNT5ARVJ05Ji4usCcuho23DZaVXzM6UhnTjvEftwas3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Programador2\\Desktop\\Proyectos Nico\\XamarinForms\\Vasileapp\\Vasileapp.iOS\\Vasileapp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Programador2\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Programador2\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Programador2\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

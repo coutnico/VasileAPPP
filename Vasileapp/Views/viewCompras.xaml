@@ -1,0 +1,13 @@
+﻿
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Vasileapp.Views.viewCompras">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Compras"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Volver" TextTransform="None" x:Name ="btnVolver"  Clicked="btnVolver_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
